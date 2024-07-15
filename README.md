@@ -1,8 +1,6 @@
 ## Summary
-![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/ZC-peng/SAM_based_Building_Footprint_Extraction_for_Residential/blob/master/img1.jpg))
-#### In this study, an automated prompt generation instance segmentation method based on the
-#### foundational SAM combining airborne LiDAR data and aerial orthoimages was proposed to 
-#### accurately obtaining building footprints within residential complexes. 
+![image](https://github.com/ZC-peng/SAM_based_Building_Footprint_Extraction_for_Residential/blob/master/img1.jpg)
+* #### In this study, an automated prompt generation instance segmentation method based on the foundational SAM combining airborne LiDAR data and aerial orthoimages was proposed to data and aerial orthoimages was proposed to accurately obtaining building footprints within residential complexes. 
 
 
 
