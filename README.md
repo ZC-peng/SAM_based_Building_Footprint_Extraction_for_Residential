@@ -43,14 +43,19 @@ pip install --force-reinstall charset-normalizer==3.1.0
 * the overall directory hierarchical structure is:
 ```
 SAM_based_Building_Footprint_Extraction_for_Residential
+│
 ├── convert_tools------------------------------------------Some code about format conversion
 │   ├── convert_tools.py
+│
 ├── demo---------------------------------------------------A demo containing code, images, and point clouds
 │   ├── SAM_seg_demo.py
 │   ├──  ...
+│
 ├── requirements-------------------------------------------Desired dependence
 │   ├── requirements.txt
+│
 ├── src----------------------------------------------------Main code
 │   ├── building_seg_via_SAM.py
 │   ├── utils.py
+│
 ```
